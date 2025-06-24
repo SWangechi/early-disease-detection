@@ -137,6 +137,6 @@ This project is licensed under the MIT License.
 
 ## 🔗 Connect
 
-* GitHub: [@swanechi](https://github.com/swangechi)
+* GitHub: [@swangechi](https://github.com/swangechi)
 * Email: [sgituire@gmail.com](mailto:sgituire@gmail.com)
 
