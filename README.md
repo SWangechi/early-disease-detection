@@ -1,4 +1,3 @@
-```markdown
 # 🏥 AI-Driven Early Detection of Malaria, TB, and HIV
 
 An end-to-end machine learning project for early disease detection using patient symptoms, X-ray images, and wearable device data. This project predicts the likelihood of Malaria, Tuberculosis (TB), or HIV and clusters patients for effective triage.
